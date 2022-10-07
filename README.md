@@ -1,3 +1,3 @@
 # treino_machinelearning
 
-Projetos treino de Machine Learing
+Projetos treino de Machine Learning
